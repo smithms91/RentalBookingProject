@@ -12,8 +12,8 @@ import SearchModal from './components/Modals/SearchModal'
 const font = Nunito({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Airbnb Clone',
-  description: 'Airbnb Clone',
+  title: 'Booking Reservation Project',
+  description: 'Booking Reservation Project',
 }
 
 export default async function RootLayout({

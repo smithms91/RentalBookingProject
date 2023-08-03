@@ -41,3 +41,5 @@ export async function POST(request: Request) {
 
   return NextResponse.json(listing);
 }
+
+export const dynamic = 'force-dynamic'

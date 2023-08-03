@@ -30,3 +30,6 @@ export async function POST(req: Request) {
 
   return NextResponse.json(listingAndReservations);
 }
+
+
+export const dynamic = 'force-dynamic'
